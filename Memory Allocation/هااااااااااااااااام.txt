@@ -1,0 +1,1 @@
+please convert extended of memoryallocation file from .txt to .exe
